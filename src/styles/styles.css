@@ -1,0 +1,31 @@
+.user-list {
+    max-width: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 0%;
+}
+
+.user-list h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.user-list ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.user-list li{
+    border-bottom: 1px solid #ddd;
+    padding: 10px 0;   
+}
+
+.user-list li p{
+    margin: 5px 0;
+}
+
+.error-message {
+    color: red;
+    font-size: 0.875em;
+    text-align: center;
+}
